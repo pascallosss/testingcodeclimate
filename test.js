@@ -1,11 +1,10 @@
 var kaas = "kaas"
 console.log('dssdssdsdds');
 
-// todo: lalalaa
-// hack: test code climate
+var kaas2 = "kaaassss";
 
+console.log('help');
 
-// todo: a lot
-
+var password = 'testttt';
 
 return kaas == 'a';
