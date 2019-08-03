@@ -2,8 +2,8 @@
 
 class WerktDit {
 
-constructor (private $http,
-             private _) {}
+  constructor(private $http,
+              private _) {}
   
   private kaas() {
     console.log('kaas');
