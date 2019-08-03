@@ -6,3 +6,6 @@ console.log('dssdssdsdds');
 
 
 // todo: a lot
+
+
+return kaas == 'a';
