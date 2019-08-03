@@ -1,10 +1,15 @@
 'use strict';
 
 class WerktDit {
-  constructor (private $http,
-               private _) {}
+
+constructor (private $http,
+             private _) {}
+  
+  private kaas() {
+    console.log('kaas');
+  }
 }
 
 angular
     .module('app')
-    .service('WerktDit', ['$http', WerktDit])
+    .service('WerktDit', ['$http', WerktDit]);
