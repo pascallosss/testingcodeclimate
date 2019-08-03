@@ -2,7 +2,7 @@
 
 class WerktDit {
   constructor (private $http,
-                 private _) {}
+               private _) {}
 }
 
 angular
