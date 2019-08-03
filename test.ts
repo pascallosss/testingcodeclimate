@@ -8,6 +8,10 @@ class WerktDit {
   private kaas() {
     console.log('kaas');
   }
+  
+ private kaas2 () {
+   // TODO: lalal
+ }
 }
 
 angular
