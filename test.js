@@ -10,4 +10,10 @@ console.log('dssdssdsdds');
 
 // TODO neeee
 
+var kaas2 = "kaaassss";
+
+console.log('help');
+
+var password = 'test';
+
 return kaas == 'a';
