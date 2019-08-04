@@ -6,7 +6,7 @@ class WerktDit {
               private _) {}
   
   private kaas() {
-    console.log('kaas');
+    console.log('kaassssss');
   }
   
  private kaas2 () {
