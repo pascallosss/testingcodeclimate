@@ -11,6 +11,7 @@ class WerktDit {
   
  private kaas2 () {
    // TODO: lalal
+   console.log('kaaas'):
  }
 }
 
