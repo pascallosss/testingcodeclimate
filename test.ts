@@ -6,11 +6,11 @@ class WerktDit {
               private _) {}
   
   private kaas() {
-    console.log('kaas');
+    console.log('kaassssss');
   }
   
  private kaas2 () {
-   // TODO: lalal
+   // TODO: lalala
  }
 }
 
